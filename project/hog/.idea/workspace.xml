@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64a1e40a-3020-4111-a0d9-21a05dd3a460" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/default_graphics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hog.py" beforeDir="false" afterPath="$PROJECT_DIR$/hog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hog_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/hog_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hog_ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ok" beforeDir="false" afterPath="$PROJECT_DIR$/ok" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj01.ok" beforeDir="false" afterPath="$PROJECT_DIR$/proj01.ok" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/00.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/08.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/check_strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/check_strategy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/construct_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/construct_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/play_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/play_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ucb.py" beforeDir="false" afterPath="$PROJECT_DIR$/ucb.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2j5tJzbyWegB0Mt97DXqEoUsWaG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/WorkFolder/V2.1",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="64a1e40a-3020-4111-a0d9-21a05dd3a460" name="更改" comment="" />
+      <created>1720688701640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720688701640</updated>
+      <workItem from="1720688703079" duration="30000" />
+    </task>
+    <servers />
+  </component>
+</project>
