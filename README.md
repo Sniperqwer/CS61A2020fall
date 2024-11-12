@@ -1,2 +1,2 @@
 # CS61A2020fall
-My lab and projects of CS61A
+My solutions for cs61a 2020 fall.
