@@ -14,8 +14,10 @@ test = {
           ],
           'hidden': False,
           'locked': True,
-          'multiline': False,
-          'question': 'Which of the following statements describes a difference between a def statement and a lambda expression?'
+          'question': r"""
+          Which of the following statements describes a difference between a def statement
+          and a lambda expression?
+          """
         },
         {
           'answer': '2ad3e8f40fd1b51f9a33075a0048a5d6',
@@ -27,7 +29,6 @@ test = {
           ],
           'hidden': False,
           'locked': True,
-          'multiline': False,
           'question': r"""
           How many parameters does the following lambda expression have?
           lambda a, b: c + d
@@ -43,7 +44,6 @@ test = {
           ],
           'hidden': False,
           'locked': True,
-          'multiline': False,
           'question': 'When is the return expression of a lambda expression executed?'
         }
       ],
@@ -54,7 +54,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> # If Python displays <function...>, type Function, if it errors type Error, if it displays nothing type Nothing
+          >>> # If Python displays <function...>, type Function, if it errors type Error
           >>> lambda x: x  # A lambda expression with one parameter x
           4f02258d689b15b516174b381ad2aef8
           # locked
@@ -81,8 +81,7 @@ test = {
           # locked
           """,
           'hidden': False,
-          'locked': True,
-          'multiline': False
+          'locked': True
         },
         {
           'code': r"""
@@ -93,8 +92,7 @@ test = {
           # locked
           """,
           'hidden': False,
-          'locked': True,
-          'multiline': False
+          'locked': True
         },
         {
           'code': r"""
@@ -111,8 +109,7 @@ test = {
           # locked
           """,
           'hidden': False,
-          'locked': True,
-          'multiline': False
+          'locked': True
         },
         {
           'code': r"""
@@ -141,8 +138,7 @@ test = {
           # locked
           """,
           'hidden': False,
-          'locked': True,
-          'multiline': False
+          'locked': True
         }
       ],
       'scored': False,
