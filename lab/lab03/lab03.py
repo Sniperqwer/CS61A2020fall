@@ -128,7 +128,10 @@ def div_by_primes_under(n):
     i = 2
     while i <= n:
         if not checker(i):
-            checker = (lambda f, i: lambda x: x % i == 0 or f(x))(checker, i)
+            # checker = (lambda f, i: lambda x: x % i == 0 or f(x))(checker, i)
+            # fmt: off
+            checker = (lambda f=checker, j=i: lambda x: x % j == 0 or f(x))()
+            # fmt: on
         i = i + 1
     return checker
 
